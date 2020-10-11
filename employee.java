@@ -1,4 +1,4 @@
-package main;
+package com.luassignment;
 
 public class employee {
     String name;
